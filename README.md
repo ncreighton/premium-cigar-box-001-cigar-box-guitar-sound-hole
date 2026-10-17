@@ -1,0 +1,2 @@
+# premium-cigar-box-001-cigar-box-guitar-sound-hole
+Tired of guessing your way to a muddy tone? Stop settling for a box that looks great but sounds dead — take control of your build with a lab-designed approach to sound hole engineering.  This Notion template eliminates the trial-and-error of sound hole placement and sizing, giving you a systematic lab to test configurations before you cut. It’s the
